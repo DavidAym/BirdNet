@@ -1,0 +1,117 @@
+[
+    {
+        "class_id": 0,
+        "class_name": "European_Goldfinch",
+        "folder_path": "CUB_200_2011/images/001.European_Goldfinch"
+    },
+    {
+        "class_id": 1,
+        "class_name": "Crested_Auklet",
+        "folder_path": "CUB_200_2011/images/002.Crested_Auklet"
+    },
+    {
+        "class_id": 2,
+        "class_name": "Least_Auklet",
+        "folder_path": "CUB_200_2011/images/003.Least_Auklet"
+    },
+    {
+        "class_id": 3,
+        "class_name": "Rhinoceros_Auklet",
+        "folder_path": "CUB_200_2011/images/004.Rhinoceros_Auklet"
+    },
+    {
+        "class_id": 4,
+        "class_name": "Brewer_Blackbird",
+        "folder_path": "CUB_200_2011/images/005.Brewer_Blackbird"
+    },
+    {
+        "class_id": 5,
+        "class_name": "Red_winged_Blackbird",
+        "folder_path": "CUB_200_2011/images/006.Red_winged_Blackbird"
+    },
+    {
+        "class_id": 6,
+        "class_name": "Yellow_headed_Blackbird",
+        "folder_path": "CUB_200_2011/images/007.Yellow_headed_Blackbird"
+    },
+    {
+        "class_id": 7,
+        "class_name": "Bobolink",
+        "folder_path": "CUB_200_2011/images/008.Bobolink"
+    },
+    {
+        "class_id": 8,
+        "class_name": "Indigo_Bunting",
+        "folder_path": "CUB_200_2011/images/009.Indigo_Bunting"
+    },
+    {
+        "class_id": 9,
+        "class_name": "Cardinal",
+        "folder_path": "CUB_200_2011/images/010.Cardinal"
+    },
+    {
+        "class_id": 10,
+        "class_name": "Spotted_Catbird",
+        "folder_path": "CUB_200_2011/images/011.Spotted_Catbird"
+    },
+    {
+        "class_id": 11,
+        "class_name": "Yellow_breasted_Chat",
+        "folder_path": "CUB_200_2011/images/012.Yellow_breasted_Chat"
+    },
+    {
+        "class_id": 12,
+        "class_name": "New_Zealand_Fantail",
+        "folder_path": "CUB_200_2011/images/013.New_Zealand_Fantail"
+    },
+    {
+        "class_id": 13,
+        "class_name": "Lilian's_Lovebird",
+        "folder_path": "CUB_200_2011/images/014.Lilian's_Lovebird"
+    },
+    {
+        "class_id": 14,
+        "class_name": "Ivory_Gull",
+        "folder_path": "CUB_200_2011/images/015.Ivory_Gull"
+    },
+    {
+        "class_id": 15,
+        "class_name": "Painted_Bunting",
+        "folder_path": "CUB_200_2011/images/016.Painted_Bunting"
+    },
+    {
+        "class_id": 16,
+        "class_name": "Lazuli_Bunting",
+        "folder_path": "CUB_200_2011/images/017.Lazuli_Bunting"
+    },
+    {
+        "class_id": 17,
+        "class_name": "Green_Jay",
+        "folder_path": "CUB_200_2011/images/018.Green_Jay"
+    },
+    {
+        "class_id": 18,
+        "class_name": "Blue_Jay",
+        "folder_path": "CUB_200_2011/images/019.Blue_Jay"
+    },
+    {
+        "class_id": 19,
+        "class_name": "Lesser_Violetear",
+        "folder_path": "CUB_200_2011/images/020.Lesser_Violetear"
+    },
+    {
+        "class_id": 20,
+        "class_name": "Pied_Kingfisher",
+        "folder_path": "CUB_200_2011/images/021.Pied_Kingfisher"
+    },
+    {
+        "class_id": 21,
+        "class_name": "Baltimore_Oriole",
+        "folder_path": "CUB_200_2011/images/022.Baltimore_Oriole"
+    },
+    {
+        "class_id": 22,
+        "class_name": "Geococcyx",
+        "folder_path": "CUB_200_2011/images/023.Geococcyx"
+    }
+]
